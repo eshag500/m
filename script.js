@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: '3,500,000 ريال',
             type: 'أرض',
             description: 'قطعة أرض مميزة تصلح للاستثمار التجاري.',
-            image: 'img/property3.jpg'
+            image: 'm.jpg'
         },
         {
             id: 4,
@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'شقة',
             description: 'شقة مفروشة بالكامل في موقع حيوي.',
             image: 'img/property4.jpg'
-        }'
+        }
         // أضف المزيد من العقارات هنا
     ];
 
