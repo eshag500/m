@@ -40,7 +40,18 @@ document.addEventListener('DOMContentLoaded', () => {
             type: 'شقة',
             description: 'شقة مفروشة بالكامل في موقع حيوي.',
             image: 'img/property4.jpg'
-        }
+        }'
+{
+            id: 5,
+            title: 'شقة مفروشة للإيجار',
+            location: 'تفرغ زينة، صحراوي',
+            price: '15,000 جنيه/شهر',
+            type: 'شقة',
+            description: 'شقة مفروشة بالكامل في موقع حيوي.',
+            image: 'm.jpg'
+        }'
+
+        
         // أضف المزيد من العقارات هنا
     ];
 
