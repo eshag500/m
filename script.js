@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: '1,200,000 ريال',
             type: 'شقة',
             description: 'شقة فسيحة بتصميم عصري وتشطيبات عالية الجودة.',
-            image: 'img/property1.jpg' // أضف صورًا حقيقية
+            image: 's.jpg' // أضف صورًا حقيقية
         },
         {
             id: 2,
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: '80,000 ريال/سنة',
             type: 'فيلا',
             description: 'فيلا واسعة مع حديقة ومسبح، مثالية للعائلات.',
-            image: 'img/property2.jpg'
+            image: 's.jpg'
         },
         {
             id: 3,
