@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'شقة مفروشة بالكامل في موقع حيوي.',
             image: 'img/property4.jpg'
         }'
-{
+{{
             id: 5,
             title: 'شقة مفروشة للإيجار',
             location: 'تفرغ زينة، صحراوي',
