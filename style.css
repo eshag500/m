@@ -75,7 +75,7 @@ header nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/hero-bg.jpg') no-repeat center center/cover; /* يجب إضافة صورة */
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('s.jpg') no-repeat center center/cover; /* يجب إضافة صورة */
 
     background-color:gray;
     color: var(--white);
