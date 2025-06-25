@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقع عقارات</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1 class="logo">عقاراتنا</h1>
+            <nav>
+                <ul>
+                    <li><a href="#hero">الرئيسية</a></li>
+                    <li><a href="#listings">العقارات</a></li>
+                    <li><a href="#about">عنا</a></li>
+                    <li><a href="#contact">اتصل بنا</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero" class="hero">
+        <div class="container">
+            <h2>ابحث عن منزلك المثالي</h2>
+            <p>أفضل العقارات للبيع والإيجار في مكان واحد.</p>
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="ابحث عن عقار (مثال: شقة، فيلا، موقع)...">
+                <button id="searchButton">بحث</button>
+            </div>
+        </div>
+    </section>
+
+    <section id="listings" class="listings">
+        <div class="container">
+            <h3>أحدث العقارات</h3>
+            <div class="property-grid" id="propertyGrid">
+                </div>
+        </div>
+    </section>
+
+    <section id="about" class="about">
+        <div class="container">
+            <h3>من نحن</h3>
+            <p>نحن منصة رائدة في مجال العقارات، نهدف إلى تبسيط عملية البحث عن العقارات وتقديم أفضل الخدمات للمشترين والبائعين والمستأجرين.</p>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <div class="container">
+            <h3>تواصل معنا</h3>
+            <p>إذا كان لديك أي أسئلة، لا تتردد في الاتصال بنا.</p>
+
+           <a href="https://wa.me/qr/VKI2RJDXYMJYJ1"> <p>+22220088265</p></a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 عقاراتنا. جميع الحقوق محفوظة.</p>
+        </div>
+    </footer>
+
+    <script src="script2.js"></script>
+</body>
+</html>
