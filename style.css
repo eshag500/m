@@ -46,9 +46,9 @@ div.scrollmenu {
 }
 div.scrollmenu a {
   display: inline-block;
-  color: white;
+  color: black;
   text-align: center;
-  padding: 14px;
+  padding: 20px;
   text-decoration: none;
 }
 div.scrollmenu a:hover {
