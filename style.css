@@ -4,6 +4,7 @@ div.scrollmenu {
   white-space: nowrap;
   font-style: normal;
   font-weight: bold;
+        text-align:block;
  /* background-color:#a2a2d0;*/
 }
 
