@@ -39,16 +39,11 @@ ul {
 }
 
 /*nav bar  background-color:#f9*/
-
-
-
 div.scrollmenu {
-        background-color:‎gray;
+  background-color: #333;
   overflow: auto;
   white-space: nowrap;
-text-align: center;
 }
-
 div.scrollmenu a {
   display: inline-block;
   color: white;
@@ -56,10 +51,17 @@ div.scrollmenu a {
   padding: 14px;
   text-decoration: none;
 }
-
+div.scrollmenu a:hover {
+  background-color: #777;
+}adding: 14px;
+  text-decoration: none;
+}
 div.scrollmenu a:hover {
   background-color: #777;
 }
+
+
+
 
 
 
