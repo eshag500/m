@@ -1,5 +1,5 @@
 div.scrollmenu {
-    background-color: red;
+    background-image:url('d.jpg');
   overflow: auto;
   white-space: nowrap;
 }
