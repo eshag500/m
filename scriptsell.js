@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 1,
             title: 'شقة فاخرة للبيع',
-            location: 'الرياض، حي النرجس',
-            price: '1,200,000 ريال',
+            location: 'نواكشوط، الإتحادية ',
+            price: '1,200,000 أوقية',
             type: 'شقة',
             description: 'شقة فسيحة بتصميم عصري وتشطيبات عالية الجودة.',
             image: 's.jpg' // أضف صورًا حقيقية
@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 3,
             title: 'أرض تجارية للبيع',
-            location: 'الدمام، طريق الملك فهد',
-            price: '3,500,000 ريال',
+            location: 'عين الطلح،   كرفور عين الطلح',
+            price: '3,500,000 أوقية',
             type: 'أرض',
             description: 'قطعة أرض مميزة تصلح للاستثمار التجاري.',
             image: 'm.jpg'
