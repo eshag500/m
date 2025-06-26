@@ -1,6 +1,5 @@
 div.scrollmenu {
-background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('d.jpeg') ; /* يجب إضافة صورة */  overflow: auto;
-
+background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('d.jpeg') no-repeat center center/cover; /* يجب إضافة صورة */background-repeat: no-repeat;
   white-space: nowrap;
   font-style: normal;
   font-weight: bold;
