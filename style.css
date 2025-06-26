@@ -1,7 +1,7 @@
 div.scrollmenu {
         /*background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('fg.jpg') no-repeat center center/cover; /* يجب إضافة صورة */*/
   /*background: linear-gradient(rgba(1, 1, 1, 0.5), rgba(1, 1, 1, 0.5)), url('fg.jpg') no-repeat center center/cover; /* يجب إضافة صورة */background-repeat: no-repeat;*/
-/*  white-space: nowrap;*/
+  white-space: nowrap;
   font-style: normal;
   font-weight: bold;
         text-align:block;
@@ -110,7 +110,7 @@ header nav ul li a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    text-align: center;
+   /* text-align: center;*/
 }
 
 .hero h2 {
