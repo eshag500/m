@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: '15,000 أوقية/شهر',
             type: 'شقة',
             description: 'شقة مفروشة بالكامل في موقع حيوي.',
-            image: 'img/property4.jpg'
+            image: 's.jpg'
         },
         {
             id: 5,
