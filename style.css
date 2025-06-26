@@ -3,7 +3,7 @@ div.scrollmenu {
   white-space: nowrap;
   font-style: normal;
   font-weight: bold;
-  background-color:#746cc0;
+  background-color:#a2a2d0;
 }
 
 div.scrollmenu a {
@@ -147,7 +147,7 @@ header nav ul li a:hover {
 }
 
 .search-bar button:hover {
-    background-color: #0056b3;
+    background-color: #a2a2d0;
 }
 
 /* Listings Section */
