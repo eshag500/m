@@ -40,7 +40,7 @@ ul {
 
 /*nav bar  background-color:#f9*/
 div.scrollmenu {
-  background-color: #acacac;
+*/  background-color: #acacac;/*
   overflow: auto;
   white-space: nowrap;
 }
