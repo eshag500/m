@@ -38,10 +38,12 @@ ul {
     list-style: none;
 }
 
-/*nav bar*/
+/*nav bar  background-color:#f9f9f9;
+
+*/
 
 div.scrollmenu {
-  background-color:#f9f9f9;
+        background-color: var(--primary-color);
   overflow: auto;
   white-space: nowrap;
 text-align: center;
