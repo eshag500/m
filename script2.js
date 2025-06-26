@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 2,
             title: 'فيلا مستقلة للإيجار',
-            location: 'جدة، حي الروضة',
-            price: '80,000 ريال/سنة',
+            location: 'دار البركة، شارع الطينطان ',
+            price: '80,000 أوقية/سنة',
             type: 'فيلا',
             description: 'فيلا واسعة مع حديقة ومسبح، مثالية للعائلات.',
             image: 's.jpg'
@@ -19,8 +19,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 4,
             title: 'شقة مفروشة للإيجار',
-            location: 'القاهرة، الزمالك',
-            price: '15,000 جنيه/شهر',
+            location: 'بوحديدة، طريق الأمل',
+            price: '15,000 أوقية/شهر',
             type: 'شقة',
             description: 'شقة مفروشة بالكامل في موقع حيوي.',
             image: 'img/property4.jpg'
@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 5,
             title: 'شقة مفروشة للإيجار',
             location: 'نواكشوط، صحراوي',
-            price: '15,000 جنيه/شهر',
+            price: '15,000 أوقية/شهر',
             type: 'شقة',
             description: 'شقة مفروشة بالكامل في موقع حيوي.',
             image: 'm.jpg'
