@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 1,
             title: 'شقة فاخرة للبيع',
-            location: 'الرياض، حي النرجس',
-            price: '1,200,000 ريال',
+            location: 'نواكشوط، تفرغ زينة ',
+            price: '1,200,000 أوقية',
             type: 'شقة',
             description: 'شقة فسيحة بتصميم عصري وتشطيبات عالية الجودة.',
             image: 's.jpg' // أضف صورًا حقيقية
@@ -17,8 +17,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 2,
             title: 'فيلا مستقلة للإيجار',
-            location: 'جدة، حي الروضة',
-            price: '80,000 ريال/سنة',
+            location: 'عرفات، الداية11 ',
+            price: '80,000 أوقية/سنة',
             type: 'فيلا',
             description: 'فيلا واسعة مع حديقة ومسبح، مثالية للعائلات.',
             image: 's.jpg'
@@ -26,8 +26,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 3,
             title: 'أرض تجارية للبيع',
-            location: 'الدمام، طريق الملك فهد',
-            price: '3,500,000 ريال',
+            location: 'نواكشوط،   ملح',
+            price: '3,500,000 أوقية',
             type: 'أرض',
             description: 'قطعة أرض مميزة تصلح للاستثمار التجاري.',
             image: 'm.jpg'
@@ -35,8 +35,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 4,
             title: 'شقة مفروشة للإيجار',
-            location: 'القاهرة، الزمالك',
-            price: '15,000 جنيه/شهر',
+            location: 'عين الطلح، شارع الطينطان',
+            price: '15,000 أوقية/شهر',
             type: 'شقة',
             description: 'شقة مفروشة بالكامل في موقع حيوي.',
             image: 'img/property4.jpg'
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 5,
             title: 'شقة مفروشة للإيجار',
             location: 'نواكشوط، صحراوي',
-            price: '15,000 جنيه/شهر',
+            price: '15,000 أوقية/شهر',
             type: 'شقة',
             description: 'شقة مفروشة بالكامل في موقع حيوي.',
             image: 'm.jpg'
