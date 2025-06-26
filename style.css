@@ -39,29 +39,6 @@ ul {
 }
 
 /*nav bar  background-color:#f9*/
-div.scrollmenu {
-  background-color: #acacac;
-  overflow: auto;
-  white-space: nowrap;
-}
-div.scrollmenu a {
-  display: inline-block;
-  color: black;
-  text-align: center;
-  padding: 20px;
-  text-decoration: none;
-}
-div.scrollmenu a:hover {
-  background-color: #777;
-}adding: 14px;
-  text-decoration: none;
-}
-div.scrollmenu a:hover {
-  background-color: #777;
-}
-
-
-
 
 
 
